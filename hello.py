@@ -25,7 +25,7 @@ class HandlerClass(BaseHTTPRequestHandler):
             align-items: center;
         }
         h1 {
-	    font-size: 65px;
+	    font-size: 100px;
         }
     </style>
 </head>
