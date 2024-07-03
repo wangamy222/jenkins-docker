@@ -11,7 +11,7 @@ class HandlerClass(BaseHTTPRequestHandler):
         html_content = '''
         <!DOCTYPE html>
 <html lang="en">
-<head>
+<head>https://github.com/wangamy222/jenkins-docker/blob/main/hello.py
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HI</title>
@@ -25,7 +25,7 @@ class HandlerClass(BaseHTTPRequestHandler):
             align-items: center;
         }
         h1 {
-	    font-size: 55px;
+	    font-size: 65px;
         }
     </style>
 </head>
